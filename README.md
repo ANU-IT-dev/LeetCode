@@ -10,13 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ANU-IT-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ANU-IT-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/ANU-IT-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
