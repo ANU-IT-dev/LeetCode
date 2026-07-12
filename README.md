@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ANU-IT-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -59,8 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANU-IT-dev/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANU-IT-dev/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
