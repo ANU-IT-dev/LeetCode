@@ -13,20 +13,21 @@ public:
         priority_queue<p,vector<p>,greater<p>> pq; //min heap;
 
          // step3. push elements into min heap;
-        // maintains size of k;
-
+        // maintains size of k only;
+       // O(nlog(k))
         for(auto & it:mp)
         {
             int value =it.first;
             int freq = it.second;
         
-        pq.push({freq,value});
+        pq.push({freq,value}); // log k
 
         if(pq.size()>k)
         {
             pq.pop();
         }
         }
+        // step 4
 
         vector<int> result;
         while(!pq.empty())
@@ -36,9 +37,6 @@ public:
 
         }
         return result;
-
-
-
 
     }
 };
