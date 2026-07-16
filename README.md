@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ANU-IT-dev/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/ANU-IT-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ANU-IT-dev/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/ANU-IT-dev/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ANU-IT-dev/LeetCode/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ANU-IT-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
