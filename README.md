@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/ANU-IT-dev/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ANU-IT-dev/LeetCode/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/ANU-IT-dev/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
