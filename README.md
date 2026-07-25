@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ANU-IT-dev/LeetCode/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ANU-IT-dev/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/ANU-IT-dev/LeetCode/tree/master/1711-count-good-meals) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
