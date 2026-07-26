@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ANU-IT-dev/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/ANU-IT-dev/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
+## Matrix
+|  |
+| ------- |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/ANU-IT-dev/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 <!---LeetCode Topics End-->
