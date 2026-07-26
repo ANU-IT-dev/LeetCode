@@ -5,10 +5,7 @@ public:
         vector<vector<int>> result;
         int n=arr.size();
         int i=0, j=1;
-        int mindiff = arr[j]-arr[i];
-        result.push_back({arr[i],arr[j]});
-        i++;
-        j++;
+        int mindiff = INT_MAX;
 
         while(j<n)
         {
@@ -19,10 +16,11 @@ public:
                 result.clear();
                 result.push_back({arr[i],arr[j]});
             }
-            else if( diff== mindiff)
+            else if(diff== mindiff)
             {
                 result.push_back({arr[i],arr[j]});
             }
+            
             i++;
             j++;
         }
