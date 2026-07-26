@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ANU-IT-dev/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ANU-IT-dev/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/ANU-IT-dev/LeetCode/tree/master/0455-assign-cookies) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ANU-IT-dev/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ANU-IT-dev/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ANU-IT-dev/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
