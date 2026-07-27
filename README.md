@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ANU-IT-dev/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANU-IT-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ANU-IT-dev/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/ANU-IT-dev/LeetCode/tree/master/1711-count-good-meals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANU-IT-dev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ANU-IT-dev/LeetCode/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANU-IT-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ANU-IT-dev/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/ANU-IT-dev/LeetCode/tree/master/1711-count-good-meals) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ANU-IT-dev/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/ANU-IT-dev/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANU-IT-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ANU-IT-dev/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANU-IT-dev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ANU-IT-dev/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ANU-IT-dev/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANU-IT-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Radix Sort
 |  |
 | ------- |
