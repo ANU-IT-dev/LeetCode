@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/ANU-IT-dev/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ANU-IT-dev/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ANU-IT-dev/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/ANU-IT-dev/LeetCode/tree/master/1711-count-good-meals) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/ANU-IT-dev/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 ## Binary Search
 |  |
 | ------- |
