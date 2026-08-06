@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ANU-IT-dev/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ANU-IT-dev/LeetCode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/ANU-IT-dev/LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ANU-IT-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
