@@ -31,7 +31,7 @@ public:
 
 // using two stack
 
-class Solution {
+/* class Solution {
 public:
    vector<int> postorderTraversal(TreeNode* root) {
     vector<int> postorder;
@@ -56,6 +56,48 @@ public:
     {
         postorder.push_back(st2.top()->val);
         st2.pop();
+    }
+    return postorder;
+   }
+};*/
+
+
+// using one stack
+
+class Solution {
+public:
+   vector<int> postorderTraversal(TreeNode* root) {
+    vector<int> postorder;
+    stack<TreeNode*>st;
+    TreeNode* curr =root;
+    TreeNode* temp;
+    while(curr!= NULL || !st.empty())
+    {
+        if(curr!=NULL)
+        {
+            st.push(curr);
+            curr =curr->left;
+        }
+        else
+        {
+         temp =st.top()->right;
+         if(temp==NULL)
+         {
+             temp =st.top();
+             st.pop();
+             postorder.push_back(temp->val);
+             while(!st.empty()&& temp== st.top()->right)
+             {
+                temp =st.top();
+                st.pop();
+                postorder.push_back(temp->val);
+
+             }
+             
+             
+         }
+         else curr= temp;
+        }
     }
     return postorder;
    }
