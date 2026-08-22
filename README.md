@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ANU-IT-dev/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0056-merge-intervals) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/ANU-IT-dev/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
