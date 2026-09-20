@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ANU-IT-dev/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ANU-IT-dev/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/ANU-IT-dev/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ANU-IT-dev/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/ANU-IT-dev/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Counting Sort
 |  |
 | ------- |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ANU-IT-dev/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/ANU-IT-dev/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
