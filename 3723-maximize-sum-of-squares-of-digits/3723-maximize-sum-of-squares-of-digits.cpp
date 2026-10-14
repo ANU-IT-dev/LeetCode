@@ -1,7 +1,7 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        if(sum> (9*num))
+        if((sum > num*9))
         {
             return "";
         }
