@@ -10,7 +10,7 @@
  * };
  */
 
-/* class Solution {
+ class Solution {
 public:
     vector<int>ans;
    void inorder( TreeNode*root)
@@ -25,11 +25,11 @@ public:
         return ans;
         
     }
-};*/
+};
 
 // iterative inorder traversal
 
-class Solution {
+/*class Solution {
 public:
 vector<int> inorderTraversal(TreeNode* root) {
     stack<TreeNode*>st;
@@ -54,8 +54,9 @@ vector<int> inorderTraversal(TreeNode* root) {
         
      }
      return inorder;
+     
 
     
 }
-};
+};*/
 
