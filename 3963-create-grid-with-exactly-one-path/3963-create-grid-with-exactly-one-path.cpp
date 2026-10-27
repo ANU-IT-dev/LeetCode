@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<string> createGrid(int m, int n) {
      vector<string> grid(m, string(n, '#'));
-     grid[0][0] = '.';
+     
      for(int j=0; j<n; j++)
      {
         grid[0][j]= '.';
