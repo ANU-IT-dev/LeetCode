@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ANU-IT-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0832-flipping-an-image](https://github.com/ANU-IT-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/ANU-IT-dev/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ANU-IT-dev/LeetCode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0912-sort-an-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ANU-IT-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ANU-IT-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ANU-IT-dev/LeetCode/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/ANU-IT-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ANU-IT-dev/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bucket Sort
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ANU-IT-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1254-number-of-closed-islands](https://github.com/ANU-IT-dev/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ANU-IT-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ANU-IT-dev/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ANU-IT-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0832-flipping-an-image](https://github.com/ANU-IT-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANU-IT-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ANU-IT-dev/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ANU-IT-dev/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ANU-IT-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ANU-IT-dev/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
