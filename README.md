@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ANU-IT-dev/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ANU-IT-dev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/ANU-IT-dev/LeetCode/tree/master/0561-array-partition) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ANU-IT-dev/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/ANU-IT-dev/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/ANU-IT-dev/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ANU-IT-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ANU-IT-dev/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ANU-IT-dev/LeetCode/tree/master/2409-count-days-spent-together) |
