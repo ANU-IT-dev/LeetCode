@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/ANU-IT-dev/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2747-count-zero-request-servers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANU-IT-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/ANU-IT-dev/LeetCode/tree/master/1711-count-good-meals) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/ANU-IT-dev/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2747-count-zero-request-servers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ANU-IT-dev/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ANU-IT-dev/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2747-count-zero-request-servers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANU-IT-dev/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ANU-IT-dev/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ANU-IT-dev/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANU-IT-dev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ANU-IT-dev/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2747-count-zero-request-servers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ANU-IT-dev/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ANU-IT-dev/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
