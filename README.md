@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANU-IT-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ANU-IT-dev/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ANU-IT-dev/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ANU-IT-dev/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ANU-IT-dev/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ANU-IT-dev/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ANU-IT-dev/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ANU-IT-dev/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ANU-IT-dev/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ANU-IT-dev/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ANU-IT-dev/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ANU-IT-dev/LeetCode/tree/master/2409-count-days-spent-together) |
