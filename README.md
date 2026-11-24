@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/ANU-IT-dev/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/ANU-IT-dev/LeetCode/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ANU-IT-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ANU-IT-dev/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ANU-IT-dev/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2848-points-that-intersect-with-cars](https://github.com/ANU-IT-dev/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ANU-IT-dev/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ANU-IT-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANU-IT-dev/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ANU-IT-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ANU-IT-dev/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANU-IT-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ANU-IT-dev/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ANU-IT-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANU-IT-dev/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ANU-IT-dev/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ANU-IT-dev/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2235-add-two-integers) |
