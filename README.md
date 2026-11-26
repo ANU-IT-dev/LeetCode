@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ANU-IT-dev/LeetCode/tree/master/0832-flipping-an-image) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ANU-IT-dev/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ANU-IT-dev/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ANU-IT-dev/LeetCode/tree/master/3360-stone-removal-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ANU-IT-dev/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ANU-IT-dev/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/ANU-IT-dev/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ANU-IT-dev/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/ANU-IT-dev/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ANU-IT-dev/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ANU-IT-dev/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANU-IT-dev/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
